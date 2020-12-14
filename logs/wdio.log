@@ -1,0 +1,2 @@
+2020-12-14T14:21:37.243Z INFO @wdio/local-runner: Start worker 0-0 with arg: wdio.conf.js
+2020-12-14T14:21:37.726Z DEBUG @wdio/local-runner: Runner 0-0 finished with exit code 1
