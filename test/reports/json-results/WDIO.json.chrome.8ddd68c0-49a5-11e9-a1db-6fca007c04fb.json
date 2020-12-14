@@ -1,0 +1,1 @@
+{"start":"2019-03-18T17:44:57.964Z","end":"2019-03-18T17:45:01.000Z","capabilities":{"browserName":"chrome"},"host":"127.0.0.1","port":4444,"baseUrl":"https://docdoc.ru","framework":"cucumber","mochaOpts":{"timeout":10000},"suites":[]}

@@ -1,0 +1,1 @@
+{"start":"2019-03-18T17:46:01.146Z","end":"2019-03-18T17:46:03.569Z","capabilities":{"browserName":"chrome","maxInstances":"5","chromeOptions":{"args":["--undefined"],"binary":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"}},"host":"127.0.0.1","port":4444,"baseUrl":"https://docdoc.ru","framework":"cucumber","mochaOpts":{"timeout":10000},"suites":[]}
